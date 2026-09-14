@@ -1,5 +1,10 @@
 # Elite101
-A repository to hold the personal projects formulated during the Elite 101 session.
+
+## Day 1 at My Startup
+
+Today, I officially joined my squad and made my first commit! I’m excited to collaborate with my team, strengthen my development skills, and start turning our ideas into real projects throughout Elite 101.
+
+This is a repository to hold the personal projects formulated during the Elite 101 session.
 
 Welcome to my Elite 101 repository! This repository contains the personal projects, assignments, and coding exercises I complete throughout Code2College's Elite 101 program.
 
