@@ -1,6 +1,6 @@
 # Elite101
 
-## Day 1 at My Startup
+Day 1 at My Startup:
 
 Today, I officially joined my squad and made my first commit! I’m excited to collaborate with my team, strengthen my development skills, and start turning our ideas into real projects throughout Elite 101.
 
